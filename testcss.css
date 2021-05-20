@@ -12,7 +12,16 @@
     text-align: center;
     display: inline-block;
   }
- .container img{
-     height: 210px;
-     width: 289px;
- }
+  .top-designers
+  {
+      width: 1601px;
+      height: 500px;
+      background: greenyellow;
+  }
+  .designers{
+      padding: 182px 164px;
+  }
+  .designers h1{
+      font-size: 32px;
+      color: #222222;
+  }
