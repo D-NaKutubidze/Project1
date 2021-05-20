@@ -1,9 +1,22 @@
 .vertical-1 {
     width: 200px;
+    height: 1007px;
 
 }
 .vertical-1 img {
     height: 44px;
-    width: 44px;;
+    width: 44px;
+    border-radius: 50%;
 
+}
+
+.boxmenu{
+    display:inline-block;
+    flex-direction: row;
+    justify-content: center;
+    height: 56px;
+    background-color: white;
+    margin: 10px;
+    font-size: 16px;
+    margin-top: 178px;
 }
