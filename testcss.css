@@ -25,3 +25,17 @@
       font-size: 32px;
       color: #222222;
   }
+  .person{
+    display: inline-flex;
+  }
+.person img{
+  height: 132px;
+  width: 132px;
+  border-radius: 50%;
+}
+.person text{
+  font-size: 16px;
+}
+.person text1{
+  ont-size: 12px;
+}
