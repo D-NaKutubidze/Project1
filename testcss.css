@@ -24,14 +24,15 @@
       margin-right: 300px;
       padding-top: 150px;
       padding-bottom: 100px;
+
   }
   .designers h1{
       font-size: 32px;
       color: #222222;
   }
   .person{
-    display: inline-block;
-    width: 100%
+    display: inline-grid;
+    width: 100%;
   }
 .person img{
   height: 132px;
